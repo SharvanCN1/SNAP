@@ -1,7 +1,6 @@
-# AI-Image-Generation-app
+# SNAP
 
 Full Stack MERN AI Image Generation App MidJourney & DALL E Clone
-
 
 ## Tech Stack
 
